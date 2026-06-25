@@ -16,7 +16,7 @@
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=SunParis&show_icons=true&theme=transparent&title_color=007ACC&icon_color=007ACC" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=SunParis&layout=compact&langs_count=8&theme=transparent&title_color=007ACC&v=2" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=SunParis&layout=compact&langs_count=8&theme=transparent&title_color=007ACC&v=3" />
 </p>
 
 <p align="center">
